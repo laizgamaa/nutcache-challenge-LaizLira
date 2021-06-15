@@ -1,6 +1,6 @@
 # nutcache-challenge-LaizLira
 
-This application was built as a challenge and its goal is to manage employees of the Nutcache company.
+This application was built as a challenge and its goal is to manage employees of the Nutcache company, using: React, Axios and SCSS.
 
 ## First step
 

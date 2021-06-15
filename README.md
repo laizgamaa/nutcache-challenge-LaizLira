@@ -28,7 +28,7 @@ To run the project on localhost.
 
 - Add an employee
 - Edit an employee
-- Remover an employee
+- Remove an employee
 - See all the employees registered
 
 Application made by Laiz Gama Lira.

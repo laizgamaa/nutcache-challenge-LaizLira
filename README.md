@@ -5,16 +5,18 @@ This application was built as a challenge and its goal is to manage employees of
 ## First step
 
 Acess [https://crudcrud.com/](https://crudcrud.com/) and copy the token at the end of the endpoint.
+
 Clone this repository and go to the src folder. Enter the config.json file and paste the token you got from crudcrud.com into TOKEN property.
 
 Now, before you can run the application, you need to install all the project dependencies.
+
 Run: 
 
 ```bash
 npm install
 ```
 
-At last, run:
+At last, use:
 
 ```bash
 npm start
